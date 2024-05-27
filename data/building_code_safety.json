@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "code": "BC201",
+        "title": "Emergency Exits",
+        "description": "Buildings must have clearly marked emergency exits that are easily accessible from all parts of the building."
+    },
+    {
+        "id": 2,
+        "code": "BC202",
+        "title": "Seismic Design",
+        "description": "Structures must be designed to withstand seismic activity in regions prone to earthquakes to ensure the safety of occupants."
+    },
+    {
+        "id": 3,
+        "code": "BC203",
+        "title": "Hazardous Materials",
+        "description": "The use and storage of hazardous materials in buildings must comply with safety regulations to prevent accidents and health risks."
+    }
+]

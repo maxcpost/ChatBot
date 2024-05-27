@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "code": "BC101",
+        "title": "Foundation Requirements",
+        "description": "All buildings must have foundations that meet specific strength and depth requirements to ensure stability and safety."
+    },
+    {
+        "id": 2,
+        "code": "BC102",
+        "title": "Fire Safety Regulations",
+        "description": "Buildings must adhere to fire safety standards including fire exits, fire alarms, and suppression systems to protect occupants in case of a fire."
+    },
+    {
+        "id": 3,
+        "code": "BC103",
+        "title": "Electrical Systems",
+        "description": "Electrical systems must be installed according to national electrical codes to prevent hazards such as short circuits and fires."
+    }
+]
